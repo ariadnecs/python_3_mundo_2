@@ -8,6 +8,7 @@ Notem que ao digitar vocês estarão constuindo e internalizando o conhecimento 
 Lembrem-se que tão importante quanto a resolução é compreender a pergunta efetivamente.
 
 Abaixo os links do curso: 
+
 https://www.cursoemvideo.com/course/python-3-mundo-1/
 https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLCKfaoRJSWVtmyzLfMsW7VYGAaVVRJh3w
 
